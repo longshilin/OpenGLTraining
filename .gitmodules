@@ -1,0 +1,6 @@
+[submodule "Clion-OpenGL"]
+	path = Clion-OpenGL
+	url = git@github.com:longshilin/Clion-OpenGL.git
+[submodule "VS-OpenGL"]
+	path = VS-OpenGL
+	url = git@github.com:longshilin/VS-OpenGL.git
